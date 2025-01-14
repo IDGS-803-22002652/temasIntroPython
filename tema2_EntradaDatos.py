@@ -1,0 +1,5 @@
+print("Dame dos numeros")
+num1=input('Numero1: ')
+num2=input('Numero2: ')
+resultado=int(num1)+int(num2)
+print("La respuesta es: {}+{}={}".format(num1,num2,resultado))
