@@ -11,3 +11,4 @@ numero4="20"
 numer05="12"
 print(numero4+numer05)
 print(int(numero4)+int(numer05))
+ 

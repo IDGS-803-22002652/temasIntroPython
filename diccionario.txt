@@ -1,0 +1,2 @@
+Pelot:Ball
+Rojo:Red
